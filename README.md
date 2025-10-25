@@ -4,7 +4,7 @@ This project captures **static (non-moving) sign language gestures** from a webc
 
 It uses **Google's MediaPipe** for high-fidelity hand and landmark tracking, and a **Random Forest classifier** for a lightweight and fast machine learning model.
 
-> 💡 *(Tip: Record a GIF of your `Main.py` script running and embed it here to showcase your project!)*
+
 
 ---
 
